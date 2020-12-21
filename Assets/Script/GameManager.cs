@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    // Değişkenler
     public int score;
     public Text ScoreText;
     void Start()

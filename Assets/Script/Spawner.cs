@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {   
+    // Değişkenler
     public Birdy BirdScript;
     public GameObject Borular;
     public float height;

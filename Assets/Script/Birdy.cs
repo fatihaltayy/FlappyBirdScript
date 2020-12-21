@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Birdy : MonoBehaviour
 {
+    // Değişkenler
     public bool isDead;
     public float velocity = 1f;
     public Rigidbody2D rd2D;
