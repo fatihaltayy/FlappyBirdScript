@@ -13,6 +13,7 @@ public class Move : MonoBehaviour
     void FixedUpdate()
     {
         transform.position += Vector3.left * speed * Time.deltaTime;
+
         
     }
 }

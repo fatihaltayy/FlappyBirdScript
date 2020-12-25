@@ -44,6 +44,7 @@ public class Birdy : MonoBehaviour
             Time.timeScale = 0;
             
             DeathScreen.SetActive(true);
+
             
         }
     }

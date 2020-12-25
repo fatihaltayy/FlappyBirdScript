@@ -24,8 +24,9 @@ public class Spawner : MonoBehaviour
            Instantiate(Borular, new Vector3(3, Random.Range(-height,height),0),Quaternion.identity);
        
             yield return new WaitForSeconds(time);
-            
-           
+ 
+
+ 
        }
        
 
